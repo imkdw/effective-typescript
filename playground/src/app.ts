@@ -1,2 +1,2 @@
-const names = ["Alice", "Bob"];
-console.log(names[2].toUpperCase());
+const el = document.getElementById("status");
+el.textContent = "ready";
